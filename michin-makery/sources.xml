@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<update version="0.0.3">
-			<file name="sources.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/sources.xml" />
+		<update version="0.0.4">
+			<file name="sources.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/sources.xml" />
 		</update>
 	</info>
 	<element name="Michin Makery" type="Source" source="Michin Makery" id="ID_HOMEBREW_SOURCE_MICHIN_MAKERY">
@@ -11,8 +11,8 @@
 		</description>
 		<setters>
 			<set name="abbreviation">MIMA</set>
-			<set name="url">https://github.com/rireih/MichinMakery</set>
-			<set name="author" url="https://github.com/rireih">Norx Gilux</set>
+			<set name="url">https://github.com/coconybbles/MichinMakery</set>
+			<set name="author" url="https://github.com/coconybbles">Norx Gilux</set>
 			<set name="homebrew">true</set>
 		</setters>
 	</element>

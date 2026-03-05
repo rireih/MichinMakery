@@ -3,8 +3,8 @@
 	<info>
 		<name>Couatl Herald</name>
 		<author url="https://www.thegriffonssaddlebag.com">Griffon's Saddlebag</author>
-		<update version="0.1">
-			<file name="fighter-couatl-herald.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/fighter-couatl-herald.xml" />
+		<update version="0.2">
+			<file name="fighter-couatl-herald.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/fighter-couatl-herald.xml" />
 		</update>
 	</info>
 	<element name="Couatl Herald" type="Archetype" source="Griffon's Saddlebag" id="ID_GSB_ARCHETYPE_FIGHTER_COUATL_HERALD">

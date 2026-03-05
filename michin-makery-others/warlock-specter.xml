@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <elements>
   <info>
-    <update version="0.0.1">
+    <update version="0.0.2">
       <author url="https://blackbandos-homebrew.fandom.com/wiki/The_Specter_(5e_Warlock_Archetype)">Blackbandos</author>
-      <file name="warlock-specter.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/warlock-specter.xml" />
+      <file name="warlock-specter.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/warlock-specter.xml" />
     </update>
   </info>
 

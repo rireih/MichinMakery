@@ -3,8 +3,8 @@
 	<info>
 		<name>Tomb of Annihilation (Items)</name>
 		<author url="https://dnd.wizards.com/products/tabletop-games/rpg-products/tomb-annihilation">WOTC</author>
-		<update version="0.2">
-			<file name="items-tomb-of-annihilation.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/items-tomb-of-annihilation.xml" />
+		<update version="0.3">
+			<file name="items-tomb-of-annihilation.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/items-tomb-of-annihilation.xml" />
 		</update>
 	</info>
 	<element name="Ghost Lantern" type="Magic Item" source="Tomb of Annihilation (Items)" id="ID_WOTC_TOA_GHOST_LANTERN">

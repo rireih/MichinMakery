@@ -3,8 +3,8 @@
 	<info>
 		<name>Missing Items</name>
 		<author url="https://dnd.wizards.com">WOTC</author>
-		<update version="0.3">
-			<file name="items-missing.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/items-missing.xml" />
+		<update version="0.4">
+			<file name="items-missing.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/items-missing.xml" />
 		</update>
 	</info>
 	<element name="Reszur" type="Magic Item" source="Princes of the Apocalypse" id="ID_WOTC_POTA_MAGIC_ITEM_RESZUR">

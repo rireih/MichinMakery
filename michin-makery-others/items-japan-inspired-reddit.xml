@@ -3,8 +3,8 @@
 	<info>
 		<name>Missing Items</name>
 		<author url="https://www.reddit.com/user/Agginmad/">AMRD</author>
-		<update version="0.2">
-			<file name="items-japan-inspired-reddit.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/items-japan-inspired-reddit.xml" />
+		<update version="0.3">
+			<file name="items-japan-inspired-reddit.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/items-japan-inspired-reddit.xml" />
 		</update>
 	</info>
   <element name="Demon Hunter Kimono" type="Magic Item" source="Agginmad (reddit)" id="ID_AMRD_DEMON_HUNTER_KIMONO">

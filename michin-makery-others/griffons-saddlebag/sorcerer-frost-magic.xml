@@ -3,8 +3,8 @@
   <info>
     <name>Frost Magic</name>
     <author url="https://www.thegriffonssaddlebag.com">Griffon's Saddlebag</author>
-    <update version="0.1">
-      <file name="sorcerer-frost-magic.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/sorcerer-frost-magic.xml" />
+    <update version="0.2">
+      <file name="sorcerer-frost-magic.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/sorcerer-frost-magic.xml" />
     </update>
   </info>
   <element name="Frost Magic" type="Archetype" source="Griffon's Saddlebag" id="ID_GSB_ARCHETYPE_SORCERER_FROST_MAGIC">

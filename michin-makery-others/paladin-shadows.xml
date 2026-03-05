@@ -4,8 +4,8 @@
     <name>Oath of Shadows</name>
     <description>The Oath of Shadows from DnD Unleashed</description>
     <author url="https://www.dndunleashed.com/home/the-oath-of-shadows-paladin">DnD Unleashed</author>
-    <update version="0.0.1">
-      <file name="paladin-shadows.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/paladin-shadows.xml" />
+    <update version="0.0.2">
+      <file name="paladin-shadows.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/paladin-shadows.xml" />
     </update>
   </info>
   <element name="Oath of Shadows" type="Archetype" source="DnD Unleashed" id="ID_DNDU_ARCHETYPE_PALADIN_OATH_OF_THE_SHADOWS">

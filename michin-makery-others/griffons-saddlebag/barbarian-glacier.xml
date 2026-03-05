@@ -3,8 +3,8 @@
   <info>
     <name>Path of the Glacier</name>
     <author url="https://www.thegriffonssaddlebag.com">Griffon's Saddlebag</author>
-    <update version="0.1">
-      <file name="barbarian-glacier.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/barbarian-glacier.xml" />
+    <update version="0.2">
+      <file name="barbarian-glacier.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/barbarian-glacier.xml" />
     </update>
   </info>
 

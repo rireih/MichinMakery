@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
   <info>
-    <update version="0.0.15">
-      <author url="https://github.com/rireih/MichinMakery">Michin Makery</author>
-      <file name="companions.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/companions.xml" />
+    <update version="0.0.16">
+      <author url="https://github.com/coconybbles/MichinMakery">Michin Makery</author>
+      <file name="companions.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/companions.xml" />
     </update>
   </info>
 

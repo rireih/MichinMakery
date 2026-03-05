@@ -2,8 +2,8 @@
 <elements>
 	<info>
 		<name>Hadozee</name>
-		<update version="0.1">
-			<file name="race-hadozee.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/race-hadozee.xml" />
+		<update version="0.2">
+			<file name="race-hadozee.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/race-hadozee.xml" />
 		</update>
 	</info>
 

@@ -3,59 +3,59 @@
 	<info>
 		<name>Michin Makery</name>
 		<description>The content from various sources implemented.</description>
-		<update version="0.0.13">
-			<file name="michin-makery-others.index" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others.index" />
+		<update version="0.0.14">
+			<file name="michin-makery-others.index" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others.index" />
 		</update>
 	</info>
 	<files>
     <!-- sources -->
-    <file name="sources.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/sources.xml" />
+    <file name="sources.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/sources.xml" />
     
     <!-- races -->
-    <file name="race-apeling.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/race-apeling.xml" />
-    <file name="race-foreclaimer.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/race-foreclaimer.xml" />
-    <file name="race-moonborn.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/race-moonborn.xml" />
-    <file name="race-pandafolk.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/race-pandafolk.xml" />
-    <file name="race-catrin.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/race-catrin.xml" />
-    <file name="race-hadozee.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/race-hadozee.xml" />
-    <file name="race-rakin.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/race-rakin.xml" />
+    <file name="race-apeling.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/race-apeling.xml" />
+    <file name="race-foreclaimer.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/race-foreclaimer.xml" />
+    <file name="race-moonborn.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/race-moonborn.xml" />
+    <file name="race-pandafolk.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/race-pandafolk.xml" />
+    <file name="race-catrin.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/race-catrin.xml" />
+    <file name="race-hadozee.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/race-hadozee.xml" />
+    <file name="race-rakin.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/race-rakin.xml" />
     
     <!-- classes -->
-    <file name="class-pirate.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/class-pirate.xml" />
+    <file name="class-pirate.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/class-pirate.xml" />
     
     <!-- subclasses -->
-    <file name="paladin-shadows.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/paladin-shadows.xml" />
-    <file name="warlock-specter.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/warlock-specter.xml" />
-    <file name="rogue-wildheart.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/rogue-wildheart.xml" />
+    <file name="paladin-shadows.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/paladin-shadows.xml" />
+    <file name="warlock-specter.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/warlock-specter.xml" />
+    <file name="rogue-wildheart.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/rogue-wildheart.xml" />
     
     <!-- items -->
-    <file name="items.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/items.xml" />
-    <file name="items-missing.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/items-missing.xml" />
-    <file name="items-tomb-of-annihilation.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/items-tomb-of-annihilation.xml" />
-    <file name="items-mmic.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/items-mmic.xml" />
-    <file name="items-japan-inspired-reddit.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/items-japan-inspired-reddit.xml" />
+    <file name="items.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/items.xml" />
+    <file name="items-missing.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/items-missing.xml" />
+    <file name="items-tomb-of-annihilation.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/items-tomb-of-annihilation.xml" />
+    <file name="items-mmic.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/items-mmic.xml" />
+    <file name="items-japan-inspired-reddit.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/items-japan-inspired-reddit.xml" />
     
     <!-- companions -->
-    <file name="mimic-companion.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/mimic-companion.xml" />    
+    <file name="mimic-companion.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/mimic-companion.xml" />    
     
     <!-- griffons-saddlebag -->
-    <file name="barbarian-glacier.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/barbarian-glacier.xml" />
-    <file name="bard-dance.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/bard-dance.xml" />
-    <file name="cleric-astral.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/cleric-astral.xml" />
-    <file name="druid-unbroken.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/druid-unbroken.xml" />
-    <file name="fighter-couatl-herald.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/fighter-couatl-herald.xml" />
-    <file name="monk-celestial.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/monk-celestial.xml" />
-    <file name="paladin-hearth.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/paladin-hearth.xml" />
-    <file name="ranger-winter-trapper.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/ranger-winter-trapper.xml" />
-    <file name="rogue-runetagger.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/rogue-runetagger.xml" />
-    <file name="sorcerer-frost-magic.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/sorcerer-frost-magic.xml" />
-    <file name="warlock-astral-griffon.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/warlock-astral-griffon.xml" />
-    <file name="wizard-material-magic.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/wizard-material-magic.xml" />
-    <file name="race-feathren.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/race-feathren.xml" />
+    <file name="barbarian-glacier.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/barbarian-glacier.xml" />
+    <file name="bard-dance.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/bard-dance.xml" />
+    <file name="cleric-astral.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/cleric-astral.xml" />
+    <file name="druid-unbroken.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/druid-unbroken.xml" />
+    <file name="fighter-couatl-herald.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/fighter-couatl-herald.xml" />
+    <file name="monk-celestial.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/monk-celestial.xml" />
+    <file name="paladin-hearth.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/paladin-hearth.xml" />
+    <file name="ranger-winter-trapper.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/ranger-winter-trapper.xml" />
+    <file name="rogue-runetagger.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/rogue-runetagger.xml" />
+    <file name="sorcerer-frost-magic.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/sorcerer-frost-magic.xml" />
+    <file name="warlock-astral-griffon.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/warlock-astral-griffon.xml" />
+    <file name="wizard-material-magic.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/wizard-material-magic.xml" />
+    <file name="race-feathren.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/race-feathren.xml" />
 
     <!-- deprecated -->
-    <obsolete name="class-healer.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/class-healer.xml" />
-		<obsolete name="class-witch.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/class-witch.xml" />
+    <obsolete name="class-healer.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/class-healer.xml" />
+		<obsolete name="class-witch.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/class-witch.xml" />
 
   </files>
 </index>

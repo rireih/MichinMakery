@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <elements>
   <info>
-    <update version="0.0.3">
-      <file name="class-pirate.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/class-pirate.xml" />
+    <update version="0.0.4">
+      <file name="class-pirate.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/class-pirate.xml" />
     </update>
   </info>
   <element name="Pirate" type="Class" source="Unknown" id="ID_UNK_CLASS_PIRATE">

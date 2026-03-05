@@ -3,8 +3,8 @@
   <info>
     <name>Material Magic</name>
     <author url="https://www.thegriffonssaddlebag.com">Griffon's Saddlebag</author>
-    <update version="0.1">
-      <file name="wizard-material-magic.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/wizard-material-magic.xml" />
+    <update version="0.2">
+      <file name="wizard-material-magic.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/wizard-material-magic.xml" />
     </update>
   </info>
   <element name="Material Magic" type="Archetype" source="Griffon's Saddlebag" id="ID_GSB_ARCHETYPE_WIZARD_MATERIAL_MAGIC">

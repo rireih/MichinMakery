@@ -3,8 +3,8 @@
 	<info>
 		<name>Missing Items</name>
 		<author url="http://knightsofvasteel.com/apps/magwas-magic-item-compendium/">MMIC</author>
-		<update version="0.2">
-			<file name="items-mmic.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/items-mmic.xml" />
+		<update version="0.3">
+			<file name="items-mmic.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/items-mmic.xml" />
 		</update>
 	</info>
   <element name="Tromplöte" type="Magic Item" source="Magwa’s Magic Item Compendium" id="ID_MMIC_TROMPLOETE">

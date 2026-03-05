@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <elements>
   <info>
-    <update version="0.0.1">
-      <file name="mimic-companion.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/mimic-companion.xml" />
+    <update version="0.0.2">
+      <file name="mimic-companion.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/mimic-companion.xml" />
     </update>
   </info>
 	<element name="Mimic" type="Companion" source="Felso" id="ID_FEL_COMPANION_MIMIC">

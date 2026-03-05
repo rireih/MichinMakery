@@ -3,8 +3,8 @@
   <info>
     <name>Astral Domain</name>
     <author url="https://www.thegriffonssaddlebag.com">Griffon's Saddlebag</author>
-    <update version="0.1">
-      <file name="cleric-astral.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/cleric-astral.xml" />
+    <update version="0.2">
+      <file name="cleric-astral.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/cleric-astral.xml" />
     </update>
   </info>
   <element name="Astral Domain" type="Archetype" source="Griffon's Saddlebag" id="ID_GSB_ARCHETYPE_CLERIC_ASTRAL_DOMAIN">

@@ -3,8 +3,8 @@
   <info>
     <name>Wildheart</name>
     <author url="https://www.reddit.com/r/UnearthedArcana/comments/iimco3/roguish_archetype_wildheart_a_wild_magic_rogue/">incendiarismnz</author>
-    <update version="0.1">
-      <file name="rogue-wildheart.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/rogue-wildheart.xml" />
+    <update version="0.2">
+      <file name="rogue-wildheart.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/rogue-wildheart.xml" />
     </update>
   </info>
   <element name="Wildheart" type="Archetype" source="incendiarismnz (Reddit)" id="ID_GSB_ARCHETYPE_ROGUE_WILDHEART">

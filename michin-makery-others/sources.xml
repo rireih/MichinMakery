@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<update version="0.0.16">
-			<file name="sources.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/sources.xml" />
+		<update version="0.0.17">
+			<file name="sources.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/sources.xml" />
 		</update>
 	</info>
 	<element name="dandwiki" type="Source" source="dandwiki" id="ID_HOMEBREW_SOURCE_MICHIN_MAKERY_OTHERS_DNDW">

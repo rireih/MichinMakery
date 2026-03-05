@@ -3,8 +3,8 @@
   <info>
     <name>Way of the Celestial</name>
     <author url="https://www.thegriffonssaddlebag.com">Griffon's Saddlebag</author>
-    <update version="0.1">
-      <file name="monk-celestial.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/monk-celestial.xml" />
+    <update version="0.2">
+      <file name="monk-celestial.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/monk-celestial.xml" />
     </update>
   </info>
   <element name="Way of the Celestial" type="Archetype" source="Griffon's Saddlebag" id="ID_GSB_ARCHETYPE_MONK_WAY_OF_THE_CELESTIAL">

@@ -3,8 +3,8 @@
   <info>
     <name>The Unbroken Circle</name>
     <author url="https://www.thegriffonssaddlebag.com">Griffon's Saddlebag</author>
-    <update version="0.1">
-      <file name="druid-unbroken.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/griffons-saddlebag/druid-unbroken.xml" />
+    <update version="0.2">
+      <file name="druid-unbroken.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/griffons-saddlebag/druid-unbroken.xml" />
     </update>
   </info>
   <element name="The Unbroken Circle" type="Archetype" source="Griffon's Saddlebag" id="ID_GSB_ARCHETYPE_DRUID_UNBROKEN_CIRCLE">

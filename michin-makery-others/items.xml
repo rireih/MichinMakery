@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
   <info>
-    <update version="0.0.2">
-      <file name="items.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/items.xml" />
+    <update version="0.0.3">
+      <file name="items.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/items.xml" />
     </update>
   </info>
 

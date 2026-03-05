@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <elements>
   <info>
-    <update version="0.0.4">
+    <update version="0.0.5">
       <author url="https://www.reddit.com/user/CUVICO/">Ivan de la Rosa</author>
-      <file name="race-catrin.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery-others/race-catrin.xml" />
+      <file name="race-catrin.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery-others/race-catrin.xml" />
     </update>
   </info>
 

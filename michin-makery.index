@@ -3,60 +3,60 @@
 	<info>
 		<name>Michin Makery</name>
 		<description>The content from the Michin Makery.</description>
-		<update version="0.0.20">
-			<file name="michin-makery.index" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery.index" />
+		<update version="0.0.21">
+			<file name="michin-makery.index" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery.index" />
 		</update>
 	</info>
 	<files>
     <!-- sources -->
-		<file name="sources.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/sources.xml" />
+		<file name="sources.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/sources.xml" />
 
     <!-- races -->
-		<file name="race-zuprix.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/race-zuprix.xml" />
-    <file name="race-kalapulu.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/race-kalapulu.xml" />
-    <file name="race-astrari.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/race-astrari.xml" />
-    <file name="race-ailuri.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/race-ailuri.xml" />
-    <file name="race-talogy.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/race-talogy.xml" />
+		<file name="race-zuprix.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/race-zuprix.xml" />
+    <file name="race-kalapulu.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/race-kalapulu.xml" />
+    <file name="race-astrari.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/race-astrari.xml" />
+    <file name="race-ailuri.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/race-ailuri.xml" />
+    <file name="race-talogy.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/race-talogy.xml" />
     
     <!-- subraces -->
 
     <!-- classes -->
-    <file name="class-dhari.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/class-dhari.xml" />
-    <file name="class-witch.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/class-witch.xml" />
+    <file name="class-dhari.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/class-dhari.xml" />
+    <file name="class-witch.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/class-witch.xml" />
 
     <!-- archetypes -->
-		<file name="warlock-lunar-goddess.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/warlock-lunar-goddess.xml" />
-		<file name="warlock-caligo-goddess.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/warlock-caligo-goddess.xml" />
-		<file name="wizard-spellbinder.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/wizard-spellbinder.xml" />
+		<file name="warlock-lunar-goddess.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/warlock-lunar-goddess.xml" />
+		<file name="warlock-caligo-goddess.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/warlock-caligo-goddess.xml" />
+		<file name="wizard-spellbinder.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/wizard-spellbinder.xml" />
     
     <!-- features -->
-    <file name="warlock-pact-of-the-stone.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/warlock-pact-of-the-stone.xml" />
-    <file name="warlock-invocations.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/warlock-invocations.xml" />
+    <file name="warlock-pact-of-the-stone.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/warlock-pact-of-the-stone.xml" />
+    <file name="warlock-invocations.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/warlock-invocations.xml" />
     
     <!-- spells -->
-		<file name="spells.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/spells.xml" />
+		<file name="spells.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/spells.xml" />
     
     <!-- backgrounds -->
-    <file name="background-starry-lover.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/background-starry-lover.xml" />
+    <file name="background-starry-lover.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/background-starry-lover.xml" />
     
     <!-- items -->
-    <file name="items.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/items.xml" />
-    <file name="items-frost-prince.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/items-frost-prince.xml" />
+    <file name="items.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/items.xml" />
+    <file name="items-frost-prince.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/items-frost-prince.xml" />
 
     <!-- companions -->
-    <file name="companions.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/companions.xml" />
+    <file name="companions.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/companions.xml" />
     
     <!-- others -->
     
     <!-- deprecated -->
-    <obsolete name="race-moonchild.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/race-moonchild.xml" />
-    <obsolete name="subrace-shape-descent.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/subrace-shape-descent.xml" />
-    <obsolete name="deities.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/deities.xml" />
-    <obsolete name="items-green-dragon.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/items-green-dragon.xml" />
-    <obsolete name="subrace-devineblood-aasimar.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/subrace-devineblood-aasimar.xml" />
-    <obsolete name="race-deva.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/race-deva.xml" />
-    <obsolete name="race-lunari.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/race-lunari.xml" />
-    <obsolete name="background-lunatic-follower.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/background-lunatic-follower.xml" />
-		<obsolete name="class-spellbinder.xml" url="https://raw.githubusercontent.com/rireih/MichinMakery/main/michin-makery/class-spellbinder.xml" />
+    <obsolete name="race-moonchild.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/race-moonchild.xml" />
+    <obsolete name="subrace-shape-descent.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/subrace-shape-descent.xml" />
+    <obsolete name="deities.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/deities.xml" />
+    <obsolete name="items-green-dragon.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/items-green-dragon.xml" />
+    <obsolete name="subrace-devineblood-aasimar.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/subrace-devineblood-aasimar.xml" />
+    <obsolete name="race-deva.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/race-deva.xml" />
+    <obsolete name="race-lunari.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/race-lunari.xml" />
+    <obsolete name="background-lunatic-follower.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/background-lunatic-follower.xml" />
+		<obsolete name="class-spellbinder.xml" url="https://raw.githubusercontent.com/coconybbles/MichinMakery/main/michin-makery/class-spellbinder.xml" />
   </files>
 </index>
